@@ -12,7 +12,7 @@ $(document).ready(function () {
                     <h4 class='text-center'>${element.name}</h4>
                 </div>
                 `);
-                console.log(element);
+                // console.log(element);
             });
         },
         error: function (response) {
