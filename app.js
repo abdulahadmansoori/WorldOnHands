@@ -18,7 +18,7 @@ $(document).ready(function () {
     //     },
     //     error: function (response) {
     //         console.log(response);
-    //     }
+        // }https://apipheny.io/free-api/
     // });
     $("#moreJokes").hide();
     var count = 1;

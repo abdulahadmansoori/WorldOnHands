@@ -1,0 +1,23 @@
+#footer {
+    background-color: #373e4a;
+    position: fixed;
+    bottom: 0;
+    right: 10px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    color: #fff;
+    font-size: 12px;
+    text-align: right;
+}
+.mui-container-fluid {
+    box-sizing: border-box;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.attribute{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+}
